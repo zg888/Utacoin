@@ -1,9 +1,0 @@
-Building UtaCoin
-
-See doc/readme-qt.rst for instructions on building UtaCoin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of UtaCoin.
-
-See doc/build-*.txt for instructions on building UtaCoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of UtaCoin.
